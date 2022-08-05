@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## How use
+
+u need have a tools, [VSCODE](https://code.visualstudio.com/), [NodeJS V16.16.0](https://nodejs.org/en/download/)
+and install dependencies, for install run: 
+### `npm i`
 
 In the project directory, you can run:
 
