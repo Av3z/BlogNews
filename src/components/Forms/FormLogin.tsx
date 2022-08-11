@@ -15,7 +15,7 @@ export function FormLogin() {
                         <Input placeholder="Digite sua senha" id="password" />
                     </div>
                     <div className="mt-4 text-center">
-                        <Button>Login</Button>
+                        <Button type="submit">Login</Button>
                     </div>
                 </form>
             </Cards>

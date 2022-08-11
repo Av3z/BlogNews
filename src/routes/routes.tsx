@@ -1,4 +1,4 @@
-import { HomePage, LoginPage, RegisterPage } from "pages";
+import { HomePage, LoginPage, RegisterPage, DashboardPage } from "pages";
 import {
     BrowserRouter,
     Routes,
@@ -12,6 +12,7 @@ export function AppRoutes() {
                 <Route path="/" element={<HomePage />} />
                 <Route path="/login" element={<LoginPage />} />
                 <Route path="/register" element={<RegisterPage />} />
+                <Route path="/dashboard" element={<DashboardPage />} />
             </Routes>
         </BrowserRouter>
     )
